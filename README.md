@@ -10,7 +10,7 @@ Installation
 * The autocomplete templates need to be located by Django, so it's recommended that you add it to your installed apps.
 * Install from github using pip:
 
-<pre>pip install -e git+git@github.com:jeremyjbowers/django-autocomplete.git#egg=autocomplete</pre>
+<pre>pip install -e git+git@github.com:washingtonpost/django-autocomplete.git#egg=autocomplete</pre>
 
 Code examples
 -----
